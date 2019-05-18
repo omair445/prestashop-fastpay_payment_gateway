@@ -2,7 +2,19 @@
   "name": "prestashop-payfast/payfast",
   "description": "PrestaShop Module Payfast",
   "homepage": "https://github.com/omair445/prestashop-fastpay_payment_gateway",
-  "license": [ "MIT"],
+  "keywords" : [
+    "Prestashop",
+    "Fast Pay",
+    "Fast",
+    "Pay",
+    "Payment gateway",
+    "fastpay",
+    "omair",
+    "omairafzal"
+  ],
+  "license" : [
+    "MIT"
+  ],
   "authors": [
     {
       "name": "Omair Afzal",
