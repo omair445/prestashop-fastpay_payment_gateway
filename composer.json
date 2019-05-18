@@ -2,7 +2,7 @@
   "name": "prestashop-payfast/payfast",
   "description": "PrestaShop Module Payfast",
   "homepage": "https://github.com/omair445/prestashop-fastpay_payment_gateway",
-  "license": "AFL - Academic Free License (AFL 3.0)",
+  "license": [ "MIT"],
   "authors": [
     {
       "name": "Omair Afzal",
